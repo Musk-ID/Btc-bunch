@@ -28,8 +28,8 @@ function curl_post($url,$data,$headers){
 function chat($message){
 	$str = str_split($message);
 	foreach($str as $repr){
-			echo $repr;
-			usleep(280);}}
+		echo $repr;
+		usleep(280);}}
 
 function main(){
 	include("cfg.php");
