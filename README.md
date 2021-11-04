@@ -26,4 +26,4 @@ Script bot Btc-bunch auto claim dengan termux
 > cd Btc-bunch
 > php bot.php
 ```
-berburu btc biar jadi sultan [daftar kuy](https://xauusd.biz/?ref=15275)
+berburu btc biar jadi sultan [join kuy](https://btcbunch.com/?r=5438)
